@@ -1,5 +1,5 @@
 # MTG_Trader
-project voor CMTPRG02 5
+project voor CMTPRG02-5
 
 ## MVC
 Het MVC framework waar ik gebruik van maak is NestJS, hierin gebruik ik MySQL als database door gebruik te maken van TypeORM.
