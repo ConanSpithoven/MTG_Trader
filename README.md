@@ -1,3 +1,6 @@
+# Development Branch
+Deze branch wordt gebruikt voor het toevoegen van changes zodat de `master` niet stuk gaat. `master` zal gezien worden als de release branch
+
 # MTG_Trader
 project voor CMTPRG02-5
 
